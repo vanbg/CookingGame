@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Chair
+  - Player
+  - Table
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Chair
+    uniqueID: 2305157983
+    locked: 0
+  - name: Player
+    uniqueID: 66153329
+    locked: 0
+  - name: Table
+    uniqueID: 2057170091
+    locked: 0
+  - name: Player1
+    uniqueID: 2942473947
+    locked: 0
+  - name: Char1
+    uniqueID: 3842026801
+    locked: 0
+  - name: Player2
+    uniqueID: 665292043
+    locked: 0
+  - name: Table1
+    uniqueID: 3521865077
+    locked: 0
+  - name: Player3
+    uniqueID: 3216530797
+    locked: 0
+  - name: Player4
+    uniqueID: 2053105571
+    locked: 0
+  - name: TableTop
+    uniqueID: 3409332669
+    locked: 0
+  - name: CharInbar
+    uniqueID: 2838683397
+    locked: 0
+  - name: TableBottom
+    uniqueID: 289883273
+    locked: 0
+  - name: Popup
+    uniqueID: 3491435095
+    locked: 0
+  - name: Warming
+    uniqueID: 3793053591
+    locked: 0
+  - name: Tutorial
+    uniqueID: 2607927895
+    locked: 0
